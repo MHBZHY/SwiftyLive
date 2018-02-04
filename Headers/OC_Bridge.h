@@ -10,5 +10,6 @@
 #define OC_Bridge_h
 
 #import "SmartPublisherSDK.h"
+#import "H264HwEncoderImpl.h"
 
 #endif /* OC_Bridge_h */
